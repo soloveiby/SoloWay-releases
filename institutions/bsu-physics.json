@@ -1,8 +1,10 @@
 {
   "schema": 1,
   "id": "bsu-physics",
-  "version": 1,
+  "version": 2,
   "kind": "university",
+  "university": "БГУ",
+  "faculty": "Физический факультет",
   "name": "БГУ · Физический факультет",
   "short": "Физфак БГУ",
   "city": "Минск",
