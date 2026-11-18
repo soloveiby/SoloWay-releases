@@ -2,6 +2,7 @@
   "schema": 1,
   "id": "bsu-physics",
   "version": 1,
+  "kind": "university",
   "name": "БГУ · Физический факультет",
   "short": "Физфак БГУ",
   "city": "Минск",

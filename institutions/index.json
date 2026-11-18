@@ -5,7 +5,15 @@
       "id": "bsu-physics",
       "name": "БГУ · Физический факультет",
       "city": "Минск",
-      "version": 1
+      "version": 1,
+      "kind": "university"
+    },
+    {
+      "id": "mrk",
+      "name": "МРК · Минский радиотехнический колледж",
+      "city": "Минск",
+      "version": 1,
+      "kind": "college"
     }
   ]
 }
