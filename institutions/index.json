@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "institutions": [
+    {
+      "id": "bsu-physics",
+      "name": "БГУ · Физический факультет",
+      "city": "Минск",
+      "version": 1
+    }
+  ]
+}
