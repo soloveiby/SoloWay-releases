@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "id": "mrk",
-  "version": 1,
+  "version": 2,
   "kind": "college",
   "name": "МРК · Минский радиотехнический колледж",
   "short": "МРК",
@@ -11,7 +11,7 @@
   "timezone": "Europe/Minsk",
   "source": {
     "type": "feed",
-    "feed": "https://raw.githubusercontent.com/soloveiby/SoloWeek-data/main/feeds/mrk/",
+    "feed": "https://raw.githubusercontent.com/soloveiby/SoloWay-data/main/feeds/mrk/",
     "page": "",
     "tidyName": "",
     "defaultSheet": "",
