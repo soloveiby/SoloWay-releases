@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "id": "bsu-fir",
-  "version": 2,
+  "version": 1,
   "kind": "university",
   "university": "БГУ",
   "faculty": "Факультет международных отношений",
@@ -33,14 +33,6 @@
       {
         "name": "4 курс",
         "sheet": "feed:bsu-fir/4"
-      },
-      {
-        "name": "Магистратура · 1 курс",
-        "sheet": "feed:bsu-fir/m1"
-      },
-      {
-        "name": "Магистратура · 2 курс",
-        "sheet": "feed:bsu-fir/m2"
       }
     ]
   },
